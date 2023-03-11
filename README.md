@@ -6,7 +6,7 @@ python template.py
 Enter the project name: <your project name>
 ```
 
-Then following some step yo make project specific 
+Then following some step you make project specific 
 
 1. Update README.md file  
 2. Uncomment ci.yml  
